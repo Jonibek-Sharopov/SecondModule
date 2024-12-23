@@ -1,0 +1,15 @@
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/bin/Debug/net8.0/2_4Dars
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/bin/Debug/net8.0/2_4Dars.deps.json
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/bin/Debug/net8.0/2_4Dars.runtimeconfig.json
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/bin/Debug/net8.0/2_4Dars.dll
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/bin/Debug/net8.0/2_4Dars.pdb
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.AssemblyInfoInputs.cache
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.AssemblyInfo.cs
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.csproj.CoreCompileInputs.cache
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.sourcelink.json
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.dll
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/refint/2_4Dars.dll
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.pdb
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/2_4Dars.genruntimeconfig.cache
+/Users/jonibeksharopov/Documents/mainProjects/secondModule/2_4DarsApi/2_4Dars/obj/Debug/net8.0/ref/2_4Dars.dll
