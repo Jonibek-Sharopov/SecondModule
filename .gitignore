@@ -1,1 +1,7 @@
 # Add files/folders to ignore
+--- gitignorefile data [Bb]in/
+[Oo]bj/
+! [Bb]in/Designs/*
+.VS
+* suo
+* user
